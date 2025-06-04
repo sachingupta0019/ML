@@ -1,0 +1,14 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    box-sizing: border-box;
+}
+
+.bg-dark{
+    background-color: #74767b;
+}
+
+.mt-50{
+    margin-top  :50px;
+}
+
